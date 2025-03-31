@@ -47,7 +47,7 @@
 
 ### 📫 **Connect with Me**
 💼 **LinkedIn:** [linkedin.com/in/Danny](https://www.linkedin.com/in/Danny)  
-📧 **Email:** [your-email@example.com](mailto:your-email@example.com)  
+📧 **Email:** [himanadanny@gmail.com](mailto:himanadanny@gmail.com)  
 🌐 **Portfolio:** [Coming Soon!]  
 
 ---
