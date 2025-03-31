@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hello, I'm Danny!</h1>
+<h1 align="center">👋 Hello, I'm Danny Pro!</h1>
 <h3 align="center">An IT Student | Cybersecurity Enthusiast | Developer</h3>
 
 <p align="center">
@@ -14,6 +14,7 @@
 🔹 Exploring **IoT Applications in Climate Change** and **Software Development**  
 
 🌍 **Also a Graphic Designer & Social Media Manager**  
+
 🎤 Member of **INYANGE ZA MARIYA Choir**  
 
 ---
