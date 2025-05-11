@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://ghchart.rshah.org/Dannypro1" alt="Danny's GitHub Contributions Chart" />
+</p>
 <h1 align="center">👋 Hello, I'm Danny Pro!</h1>
 <h3 align="center">An IT Student | Cybersecurity Enthusiast | Developer</h3>
 
