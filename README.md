@@ -39,6 +39,10 @@
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Dannypro1&theme=radical&utcOffset=8" />
 </p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Dannypro1/Dannypro1/main/github-metrics.svg" />
+</p>
+
 
 ---
 
