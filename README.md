@@ -37,7 +37,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-contribution-grid.vercel.app/?username=dannypro1&color=green" height="150" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Dannypro1&theme=radical&utcOffset=8" />
 </p>
 
 ---
