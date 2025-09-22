@@ -34,20 +34,20 @@
   <br/>
   <img src="https://github-readme-stats.vercel.app/api?username=Dannypro1&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
   <br/>
-  <img src="https://github-contribution-grid.vercel.app/?username=Dannypro1&color=green" alt="GitHub Contribution Calendar" />
+  <img src="https://github-contribution-grid.vercel.app/?username=codewithedison&color=green" alt="GitHub Contribution Calendar" />
 </p>
 
 ---
 
 ### 📂 Featured Projects
 
-🔸 [**Car Rental System – CAR EVERYWHERE**](https://github.com/Dannypro1)  
+🔸 [**Car Rental System – CAR EVERYWHERE**](https://care.dannypro.com)  
 *Automated rentals with ID verification, payment systems, and dashboard.*
 
 🔸 [**Property Management System**](https://github.com/Dannypro1)  
 *Manage tenants, leases, and units. Built with JWT-authenticated APIs.*
 
-🔸 [**Portfolio Website**](https://github.com/Dannypro1)  
+🔸 [**Portfolio Website**](https://www.dannypro1.com)  
 *Dynamic portfolio with admin panel and multilingual support.*
 
 🔸 [**Shopping Cart System**](https://github.com/Dannypro1)  
