@@ -4,7 +4,7 @@
 ---
 
 <p align="center">
-  <a href="https://dannypro1.com"><img src="https://img.shields.io/badge/🌐%20Visit%20My%20Portfolio-FF9800?style=for-the-badge&logo=google-chrome&logoColor=white"></a>
+  <a href="https://wwww.dannypro1.com"><img src="https://img.shields.io/badge/🌐%20Visit%20My%20Portfolio-FF9800?style=for-the-badge&logo=google-chrome&logoColor=white"></a>
   <a href="mailto:himanadanny@gmail.com"><img src="https://img.shields.io/badge/📧%20Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/Danny"><img src="https://img.shields.io/badge/🔗%20Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
@@ -14,7 +14,7 @@
 ## 👨‍💼 About Me
 - 🎓 IT Student at **University of Rwanda**  
 - 🔐 Passionate about **Cybersecurity**, **Cloud Computing**, and **Secure Systems**  
-- 💻 Skilled in `Python`, `C++`, `C#`, `Java`, `SQL`, `JavaScript`, `React`, `Django`  
+- 💻 Skilled in `Python`, `C++`, `C#`, `Java`, `SQL`, `JavaScript`, `React`, `Django` ,`Nodejs` 
 - 🌱 Exploring **IoT & Climate Change Applications**  
 - 🎨 Freelance **Graphic Designer** and **Social Media Manager**  
 - 🎶 Member of **INYANGE ZA MARIYA Choir**  
@@ -52,7 +52,7 @@
 
 | Project | Description | Link |
 |---------|-------------|------|
-| 🚗 **Car Rental – CAR EVERYWHERE** | Automated rentals with ID verification, payments & dashboards | [🔗 Demo](https://care.dannypro.com) |
+| 🚗 **Car Rental – CAR EVERYWHERE** | Automated rentals with ID verification, payments & dashboards | [🔗 Demo](https://care.dannypro1.com) |
 | 🏠 **Property Management System** | Manage tenants, leases & units with JWT APIs | [🔗 GitHub](https://github.com/Dannypro1) |
 | 🌐 **Portfolio Website** | Admin panel + multilingual portfolio | [🔗 Live](https://www.dannypro1.com) |
 | 🛒 **Shopping Cart System** | Secure e-commerce platform | [🔗 GitHub](https://github.com/Dannypro1) |
