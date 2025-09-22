@@ -34,7 +34,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Dannypro1&show_icons=true&theme=radical&hide_border=true" height="150" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dannypro1&theme=radical&hide_border=true" height="150" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Dannypro1&theme=radical&utcOffset=8" />
 </p>
 <p align="center">
   <!-- GitHub Activity Graph -->
@@ -46,9 +45,6 @@
 </p>
 
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dannypro1&theme=react-dark&hide_border=true&area=true" />
-</p>
 
 ---
 
