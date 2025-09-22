@@ -43,6 +43,10 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Dannypro1&theme=github_dark&utcOffset=2" width="49%" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Dannypro1&theme=github_dark" width="49%" />
 </p>
+<p align="center">
+  <img src="https://github.com/Dannypro1/Dannypro1/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+
 
 
 
