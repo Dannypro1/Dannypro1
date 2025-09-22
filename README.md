@@ -36,6 +36,14 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dannypro1&theme=radical&hide_border=true" height="150" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Dannypro1&theme=radical&utcOffset=8" />
 </p>
+<p align="center">
+  <!-- GitHub Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dannypro1&theme=github-compact&hide_border=true&area=true" width="100%" />
+
+  <!-- Contribution Calendar Style -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Dannypro1&theme=github_dark&utcOffset=2" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Dannypro1&theme=github_dark" width="49%" />
+</p>
 
 
 <p align="center">
