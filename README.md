@@ -4,7 +4,7 @@
 ---
 
 <p align="center">
-  <a href="https://wwww.dannypro1.com"><img src="https://img.shields.io/badge/🌐%20Visit%20My%20Portfolio-FF9800?style=for-the-badge&logo=google-chrome&logoColor=white"></a>
+  <a href="https://www.dannypro1.com"><img src="https://img.shields.io/badge/🌐%20Visit%20My%20Portfolio-FF9800?style=for-the-badge&logo=google-chrome&logoColor=white"></a>
   <a href="mailto:himanadanny@gmail.com"><img src="https://img.shields.io/badge/📧%20Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/Danny"><img src="https://img.shields.io/badge/🔗%20Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
