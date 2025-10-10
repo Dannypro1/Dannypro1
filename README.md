@@ -14,7 +14,7 @@
 ## 👨‍💼 About Me
 - 🎓 IT Student at **University of Rwanda**  
 - 🔐 Passionate about **Cybersecurity**, **Cloud Computing**, and **Secure Systems**  
-- 💻 Skilled in `Python`, `C++`, `C#`, `Java`, `SQL`, `JavaScript`, `React`, `Django` ,`Nodejs` 
+- 💻 Skilled in `Python`, `C++`, `C#`, `Java`, `SQL`, `JavaScript`, `React`, `Django`, `Node.js`  
 - 🌱 Exploring **IoT & Climate Change Applications**  
 - 🎨 Freelance **Graphic Designer** and **Social Media Manager**  
 - 🎶 Member of **INYANGE ZA MARIYA Choir**  
@@ -29,26 +29,34 @@
 
 ---
 
+## 🌍 Language Panel
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,cs,javascript,html,css,react,nodejs,django,flask,postgresql,mysql,mongodb,aws,docker,git,github,vscode&perline=9" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dannypro1&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="180"/>
+</p>
+
+---
+
 ## 📊 GitHub Dashboard
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Dannypro1&show_icons=true&theme=radical&hide_border=true" height="150" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dannypro1&theme=radical&hide_border=true" height="150" />
 </p>
-<p align="center">
-  <!-- GitHub Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dannypro1&theme=github-compact&hide_border=true&area=true" width="100%" />
 
-  <!-- Contribution Calendar Style -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dannypro1&theme=github-compact&hide_border=true&area=true" width="100%" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Dannypro1&theme=github_dark&utcOffset=2" width="49%" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Dannypro1&theme=github_dark" width="49%" />
 </p>
+
 <p align="center">
   <img src="https://github.com/Dannypro1/Dannypro1/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
-
-
-
 
 ---
 
@@ -65,5 +73,3 @@
 
 ## ⚡ Fun Fact
 > I love learning new tech, solving problems, and making systems secure! 🔐💡
-
----
